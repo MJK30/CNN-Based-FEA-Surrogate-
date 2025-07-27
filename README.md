@@ -13,8 +13,7 @@ This project implements a convolutional neural network surrogate with uncertaint
 4. Model Overview
 5. Training Process
 6. Uncertainty Quantification
-7. Evaluation & Visualization
-8. Active‑Learning Next Steps
+7. Active‑Learning Next Steps
 
 
 ---
