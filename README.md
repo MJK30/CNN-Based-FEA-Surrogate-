@@ -21,6 +21,7 @@ This project implements a convolutional neural network surrogate with uncertaint
 ## 1. Prerequisites
 
 * SimuStruct dataset (mesh CSV files) available locally
+https://inductiva.ai/blog/article/simustruct-dataset
 
 
 ---
